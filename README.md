@@ -34,7 +34,7 @@ g++ cl7.cpp -lcurl -pthread -o cl7
   
 ```
 
-Run itwith
+Run it
   
 ```
 ./cl7 <url> <threads> <time>
